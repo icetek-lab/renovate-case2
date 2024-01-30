@@ -6,7 +6,7 @@
 #
 attrs==23.2.0
     # via pytest
-black==24.1.0
+black==24.1.1
     # via -r requirements-dev.in
 certifi==2023.11.17
     # via
